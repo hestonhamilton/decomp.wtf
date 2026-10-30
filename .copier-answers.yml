@@ -1,8 +1,9 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: v0.1.0
+_commit: v0.1.0-23-g2ee8070
 _src_path: gh:hestonhamilton/dotfiles
 beads_prefix: ''
 ci: true
+existing_code: true
 lang: py
 repo_name: decomp.wtf
 visibility: public
